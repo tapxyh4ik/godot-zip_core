@@ -14,5 +14,5 @@ cmake ..
 
 How to use:
 ```gdscript
-var
+
 ```
