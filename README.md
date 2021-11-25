@@ -11,3 +11,8 @@ cd ..
 git clone https://github.com/tapxyh4ik/godot-zip_core
 cmake ..
 ```
+
+How to use:
+```gdscript
+var
+```
